@@ -17,8 +17,8 @@
 ## Preview
 
 <div style="display: flex">
-<img src="./.github/mobile1.png" width="250" />
-<img src="./.github/mobile2.png" width="250" />
+  <img src="./.github/mobile2.png" width="250" />
+  <img src="./.github/mobile1.png" width="250" />
 </div>
 
 ## :computer: Technologies
